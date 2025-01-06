@@ -1,0 +1,18 @@
+# Typst
+
+# MacOS
+.DS_Store
+
+# VSCode
+.vscode-server/
+
+# Linux
+.bash_history
+.ssh/
+.gitconfig
+.viminfo
+.vim/
+.vimrc
+.lesshst
+.dotnet/
+.cache/
